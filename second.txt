@@ -5,3 +5,5 @@ Updating from second branch
 
 Updating file from local first branch.
 
+Updating file after reset hard
+
